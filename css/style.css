@@ -347,9 +347,9 @@ img {
 
   .showcase-content h1 {
     font-size: 2rem;
-    line-height: 0.5;
+    line-height: 1.5 !important;
   }
-
+  
   .showcase-content p {
     font-size: 1rem;
   }
